@@ -35,7 +35,7 @@
 			- Noir (population > 500 000)
 	
 
-		- Enfin on affiche le nom de la ville et le nombre d'habitant dans une rectangle
+		- Enfin on affiche le nom de la ville et le nombre d'habitants dans un rectangle
 		
 #### Sources
 
