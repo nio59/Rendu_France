@@ -3,7 +3,7 @@
 ### Téléchargement 
 
 	https://github.com/nio59/Rendu_France/raw/master/Druel_rendu_France.zip
-	ou clique au dessus sur France_Druel.zip puis sur "Raw"
+	ou clique au dessus sur Druel_rendu_France.zip puis sur "Raw"
 
 ### Avancement du TP
 
