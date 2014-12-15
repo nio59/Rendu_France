@@ -7,11 +7,11 @@
 
 ### Avancement du TP
 
-	Le tp à été fait jusqu'a l'etape 6 du TP3, c'est à dire en entier sauf les questions bonus.
+	Le tp a été fait jusqu'a l'etape 6 du TP3, c'est à dire en entier sauf les questions bonus.
 
 ### Comment lancer l'application ?
 
-	Double clique sur France.pde puis clique sur la bouton play.
+	Double clique sur France.pde puis clique sur le bouton play.
 	Les touches disponibles sont la flèche gauche pour baisser le seuil et la flèche droite pour l'augmenter.
 
 ### Choix visuels
