@@ -3,6 +3,7 @@
 ### Téléchargement 
 
 	https://github.com/nio59/Rendu_France/raw/master/France_Druel.zip
+	ou clique au dessus sur France_Druel.zip puis sur "Raw"
 
 ### Avancement du TP
 
